@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "417886425941",
+    "project_id": "flutterflavortest-dev",
+    "storage_bucket": "flutterflavortest-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417886425941:android:1f06e73e90c14fc1ca15dc",
+        "android_client_info": {
+          "package_name": "com.mobileapp.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417886425941-a7ib7044em08f4nk9t83t376a8piv04j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCghLsidGJpMV30LdM1essunN3bSrxgPVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417886425941-a7ib7044em08f4nk9t83t376a8piv04j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "417886425941-9ehuuu9smgrjveap94iv91pb54sgrhf9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobileapp.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
